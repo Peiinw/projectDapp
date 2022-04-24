@@ -1,0 +1,38 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+}
+
+.App-header {
+  text-align: center;
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: normal;
+  font-size: calc(14px + 1vmin);
+  color: white;
+}
+
+.whitelistButton {
+  background-color: darkseagreen;
+  margin-top: 5px;
+  width: 160px;
+}
+
+.inputWidth {
+width: 320px;
+}
+
+.buttonPad {
+  margin-top: 5px;
+  width: 300px;
+}
+
+.App-link {
+  color: #09d3ac;
+}
